@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content {
+    flex: 1;
+}
+
+footer a:hover {
+    color: #282727 !important;
+    transition: 0.2s;
+}
+
